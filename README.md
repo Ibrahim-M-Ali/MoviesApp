@@ -26,6 +26,7 @@ Discover the latest trending and upcoming movies and TV shows using the Movie ap
 ![Screenshot_2023-09-14-16-41-55-995_com example movie_app](https://github.com/Ibrahim-M-Ali/MoviesApp/assets/78051378/fa2d06c0-110c-4be5-9e25-eab6f821c3d5) | ![Screenshot_2023-09-14-16-42-16-456_com example movie_app](https://github.com/Ibrahim-M-Ali/MoviesApp/assets/78051378/3a8ff966-3c12-4d03-bf9b-bf92b7f030f8) | ![Screenshot_2023-09-14-16-42-33-366_com example movie_app](https://github.com/Ibrahim-M-Ali/MoviesApp/assets/78051378/95b277d1-3478-4d79-9905-5e48c2059733) |
 
 ## Packages used
+
 - cupertino_icons
 - flutter_bloc
 - number_paginator
